@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "language_info": {
+      "name": ""
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "                                                                                                                \n                                                                                            \n                                                                                                 - Isabel Ramos-Cervantes\n                                                                                                        - BIOL 125 - 20895\n                                                                                                        - Lab Day: Thurs\n                                                                                                         - 08/17/2023",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Physiology Lab Report #1 - PHYSIOLOGICAL INSTURMENTATION",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Purpose\nIn this class we are required to learn about a lot of new instruments and equipment that some of us have not used before. The goal of this lab is to reestablish our memory of tools we are familiar with and learn about new ones. Another key component of labs is knowing how to accurately record the measurements of data using the instruments we were introduced to. ",
+      "metadata": {
+        "jp-MarkdownHeadingCollapsed": true,
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Procedures\n\n- The materials I used in this lab were:\n    - beaker\n    - ruler\n    - graduated cylinder\n    - scale\n    - pH strips\n    - test tubes\n____________________________________________________________________________________________________________________________________________\nBefore beginning our experiments we familiarized ourselves with the units of measure and the conversions on them through pages 3-5 of our Physiology Lab Manuals.\n\nThen, our procedure began:\n- We started off by taking linear measurements. This means that we took any basic notebook and measured the length, width, and depth using a ruler. We measured in mm and had to convert it to cm.\n- Then, we took volume measurements. This is where my partner and I used a beaker and filled it with water. We recorded the ml and converted it to l. We also poured the water from the beaker into a graduated cylinder and recorded the volume. We continued by following the same conversions of ml to l.\n-  We moved on with mass measurements where we used a scale to weigh the mass of an object (we chose the beaker). Then, we weighed the mass of water in a beaker. After, we recorded our mass in mg we converted it to g.\n- We also did pH measurements. In this experiment we poured three different solutions into their own individual test tube and used pH strips to figure out the pH of the liquids.\n- The final measurement we recorded was time. We did this by calculating our pulse after 15 and 60 seconds. We converted the time from bpm to bps.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Results\n \n- In this lab we conducted a series of 5 experiments. This is where I will share my results:\n\n1. Linear Measurements\n    - Length of the lecture text: 28mm -> 2.8 cm\n    - Width of the lecture text: 23.5mm -> 2.35 cm\n    - Depth of the lecture text: 1mm -> 0.1 cm\n2. Volume Measurements\n    - Volume of water in the beaker: 100 ml -> 0.1 l\n    - Volume of water from the beaker into the graduated cylinder: 98 ml -> 0.098 l\n3. Mass Measurements\n    - Mass of the beaker we weighed: 113600 mg -> 113.6 g\n    - Mass of the water in the beaker: 123800 mg -> 123.8 g\n4. pH Measurements\n     - liquid \"a\": 3 orange brick color\n     - liquid \"b\": 6 lime green color\n     - liquid \"c\": 12 dark navy blue color\n5. Time Measurements\n     - my pulse after 15 seconds: 16 -> 64 bpm\n     - my pulse after 60 seconds: 62 bpm -> 1.03 bps -> .97 bpmsec",
+      "metadata": {
+        "jp-MarkdownHeadingCollapsed": true,
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Discussion\n- The lab was not really the most fun, but it was vital to our future lab success in this class. This lab was important for us to know what materials we will be using for upcoming experiments. It was not just as simple as taking the measurements, but having to record them and then accurately convert them. The most difficult part was conversions because I was not really familiar with conversions. It was hard trying to calculate the right measurement. I think that is really important for us to recognize as a class because a small error in calculation can make or break an experiment. It can also give u inconclusive results or the incorrect answer which may possibly lead to a major accident. ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Conclusion\n- The basis of this experiment was to show us the materials we will be using. It was also important for us to recognize the significance of taking accurate measurements. We learned to convert as well. Overall, I feel like I am comfortable using the instruments and taking measurements now. ",
+      "metadata": {}
+    }
+  ]
+}
